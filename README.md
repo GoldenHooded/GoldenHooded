@@ -7,19 +7,17 @@
 > Mi nombre en linea es GoldenHooded, pero mis amigos me llaman Iker.
 
 <h1 align="center">Hi 👋, I'm GoldenHooded</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate frontend developer and musician from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldenhooded&label=Profile%20views&color=b40e0e&style=flat-square" alt="goldenhooded" /> </p>
 
-- 🔭 I’m currently working on [Kingdom Memory]("no link yet")
+- 🔭 I’m currently working on [Exarom]
 
-- 🌱 I’m currently learning **unity and blender.**
-
-- 🤝 I’m looking for help with [Kingdom Memory]("no link yet")
+- 🌱 I’m currently learning **unity procedural animations & unity editor.**
 
 - 👨‍💻 All of my projects are available at [https://goldenhooded.itch.io/](https://goldenhooded.itch.io/)
 
-- 💬 Ask me about **unity 2D.**
+- 💬 Ask me about **unity & music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
