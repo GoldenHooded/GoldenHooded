@@ -43,9 +43,9 @@ Desde que era joven, mi pasión por los videojuegos ha sido evidente. Comencé h
 ## Contacto
 ¡Me encantaría conocer gente nueva y colaborar en proyectos interesantes! Puedes encontrarme en los siguientes enlaces:
 
-- 📧 Email: [iker.giner.designer@gmail.com.com](mailto:iker.giner.canavate@gmail.com)
+- 📧 Email: [iker.giner.designer@gmail.com](mailto:iker.giner.canavate@gmail.com)
 - 💬 Discord: goldenhooded
-- 🐦 Twitter: [@tucuenta](https://twitter.com/GoldenHooded)
+- 🐦 Twitter: [@goldenhooded](https://twitter.com/GoldenHooded)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldenhooded&label=Profile%20views&color=b40e0e&style=flat-square" alt="goldenhooded" /> </p>
 
