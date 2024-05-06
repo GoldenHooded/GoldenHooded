@@ -1,35 +1,53 @@
-> **ING**
-> 
-> My online name is GoldenHooded, but my friends call me Iker.
+---
 
-> **ESP**
-> 
-> Mi nombre en linea es GoldenHooded, pero mis amigos me llaman Iker.
+# ¡Hola! Soy Íker 👋
 
-<h1 align="center">Hi 👋, I'm GoldenHooded</h1>
-<h3 align="center">A passionate frontend developer and musician from Spain</h3>
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de videojuegos, especializado en programación y diseño de juegos. Aquí encontrarás información sobre mí, mis proyectos destacados, habilidades y cómo contactarme.
+
+## Sobre mí
+¡Hola! Soy Íker, un desarrollador de videojuegos con 4-5 años de experiencia en el campo. Me encanta explorar el mundo del game design y crear experiencias interactivas únicas. Desde pequeño, los videojuegos han sido mi pasión, y ahora estoy emocionado de poder contribuir a este mundo como creador.
+
+## Proyectos Destacados
+- **Moto Mayhem:** Un endless runner emocionante con una moto como protagonista.
+- **16 00:** Un juego relajante de laberintos procedurales para disfrutar en tus momentos de calma.
+- **Green Games:** Un divertido juego para móviles de hasta 4 jugadores lleno de diversión y desafíos.
+- **Aure:** ¡Mi proyecto actual! Un survival ambientado en un desierto insólito. ¡Únete y sobrevive!
+
+## Habilidades
+- **Lenguajes de Programación:**
+  - ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
+  - ![ShaderGraph](https://img.shields.io/badge/-ShaderGraph-222222?logo=unity&logoColor=white)
+- **Herramientas de Diseño:**
+  - ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+  - ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+  - ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)
+  - ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?logo=aseprite&logoColor=white)
+  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+- **Otros Habilidades:**
+  - Animaciónes 3D en unity
+  - Composición de música y edición de sonidos
+  - Gestión de proyectos
+  - Herramientas de creación de contenido de videojuegos como Rust Edit, WorldPainter, MCreator, Blockbench
+  - Gestión de servidores de videojuegos como ARK, Minecraft, Rust
+
+## Busco Colaboración
+Actualmente trabajo solo en mis proyectos, pero estoy buscando un colaborador creativo para cubrir el apartado gráfico de nuestros videojuegos. Si te apasiona el diseño y quieres ser parte de un emocionante proyecto, ¡no dudes en contactarme!
+
+## Biografía
+Desde que era joven, mi pasión por los videojuegos ha sido evidente. Comencé haciendo animaciones sencillas en mi canal de YouTube, inspirado principalmente por Alan Becker. Con el tiempo, descubrí a otros creadores hispanos como Alva Majo y Guinxu, cuyo trabajo influyó en mi interés por el desarrollo de juegos. He tomado cursos en plataformas como Udemy y Domestika, donde he adquirido conocimientos adicionales y habilidades que me han ayudado a avanzar en mi carrera como desarrollador de videojuegos, mientras realizaba y realizo mis estudios académicos. Hoy, me enorgullece trabajar en proyectos emocionantes y estoy emocionado por lo que depara el futuro en este apasionante campo.
+
+¡Espero que te guste lo que ves! No dudes en contactarme si quieres hablar sobre videojuegos, colaborar en proyectos o simplemente charlar sobre tus experiencias en el desarrollo de juegos.
+
+## Contacto
+¡Me encantaría conocer gente nueva y colaborar en proyectos interesantes! Puedes encontrarme en los siguientes enlaces:
+
+- 📧 Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
+- 💬 Discord: TUnombre#1234
+- 🐦 Twitter: [@tucuenta](https://twitter.com/tucuenta)
+- 🎮 Steam: [tuperfil](https://steamcommunity.com/id/tuperfil)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldenhooded&label=Profile%20views&color=b40e0e&style=flat-square" alt="goldenhooded" /> </p>
 
-- 🔭 I’m currently working on [Exarom]
-
-- 🌱 I’m currently learning **unity procedural animations & unity editor.**
-
-- 👨‍💻 All of my projects are available at [https://goldenhooded.itch.io/](https://goldenhooded.itch.io/)
-
-- 💬 Ask me about **unity & music.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/icanavate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/icanavate" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpue80ri01f67z8ofbz9h8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpue80ri01f67z8ofbz9h8g" height="30" width="40" /></a>
-<a href="https://discord.gg/GoldenHooded#8699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GoldenHooded#8699" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldenhooded&show_icons=true&theme=dark&title_color=fafafa&text_color=dbdbdb&locale=esp" alt="goldenhooded" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldenhooded&theme=dark" alt="goldenhooded" /></p>
-
+---
