@@ -5,6 +5,8 @@ I bridge the gap between complex code and game design. Currently studying **Indu
 
 I specialize in **Game Mechanics**, **Optimization (DOTS)**, **Multiplayer Networking**, and creating **Editor Tools** to improve development workflows.
 
+[Itch.io](https://goldenhooded.itch.io/)
+
 ---
 
 ### 🛠️ Tech Stack
