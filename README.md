@@ -31,4 +31,4 @@ I specialize in **Game Mechanics**, **Optimization (DOTS)**, **Multiplayer Netwo
 * **Problem Solving:** I treat bugs as puzzles. I have a strong workflow using AI for rapid debugging and boilerplate generation.
 * **Communication:** Fluent in English (C1) and Spanish.
 
-📫 **Reach me at:** iker.giner.canavate@gmail.com | [Linkedin](https://www.linkedin.com/in/iker-giner-ca%C3%B1avate-63b109383/) | [Curriculum Vitae](https://goldenhooded.notion.site/ker-Giner-Ca-avate-573cdc3f37c247e686b4f3065e0f7d62)
+📫 **Reach me at:** iker.giner.canavate@gmail.com | [Linkedin](https://www.linkedin.com/in/iker-giner-ca%C3%B1avate-63b109383/) | [Curriculum Vitae](https://goldenhooded.notion.site/ker-Giner-Ca-avate-573cdc3f37c247e686b4f3065e0f7d62) [Curriculum Vitae (EN)](https://goldenhooded.notion.site/ker-Giner-Ca-avate-EN-2f010c85651b8016b30ae8db0a18d61c?source=copy_link)
