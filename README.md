@@ -9,6 +9,25 @@ I specialize in **Game Mechanics**, **Optimization (DOTS)**, **Multiplayer Netwo
 
 ---
 
+## 🌟 Featured Work
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🤖 [Unika — AI Agent for Unity](https://github.com/GoldenHooded/Unika)
+
+> A desktop AI agent built specifically for Unity game development. Runs locally alongside the Unity Editor — reads and writes project files, compiles C# code, searches the web, manages GDD/TDD documents, and operates through a full subagent pipeline (coder, reviewer, planner, reasoner).
+
+**Stack:** DeepSeek V3/R1 · Electron · React · Python · FastAPI  
+**License:** Elastic License 2.0 + Commons Clause — © 2026 Íker Giner Cañavate
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack
 
 * **Core:** C# (Advanced), Unity API, HLSL.
@@ -16,11 +35,10 @@ I specialize in **Game Mechanics**, **Optimization (DOTS)**, **Multiplayer Netwo
 * **Networking:** Mirror, Steamworks P2P.
 * **Tools:** Git, Shader Graph, Python, Photoshop, DaVinci Resolve.
 
-### 🚀 Featured Projects
+### 🚀 Other Projects
 
 | Project | Tech Highlights |
 | :--- | :--- |
-| **[Unika](https://github.com/GoldenHooded/Unika)** | 🤖 **AI agent** for Unity — DeepSeek V3/R1, Electron + React, subagent pipeline, live Unity Editor integration. |
 | **[Voxel Terrain Gen](LINK_AL_REPO)** | ⚡ **Unity Jobs & Burst** implementation of Marching Cubes algorithm for infinite procedural terrain. |
 | **[Aerial Dogfight P2P](LINK_AL_REPO)** | 🌐 **Mirror Networking** integration with Steamworks for prediction-based multiplayer physics. |
 | **[Dialogue System](LINK_AL_REPO)** | 🎨 **Custom Editor Tools** & Graph-based logic for narrative design speed-up. |
