@@ -20,6 +20,7 @@ I specialize in **Game Mechanics**, **Optimization (DOTS)**, **Multiplayer Netwo
 
 | Project | Tech Highlights |
 | :--- | :--- |
+| **[Unika](https://github.com/GoldenHooded/Unika)** | 🤖 **AI agent** for Unity — DeepSeek V3/R1, Electron + React, subagent pipeline, live Unity Editor integration. |
 | **[Voxel Terrain Gen](LINK_AL_REPO)** | ⚡ **Unity Jobs & Burst** implementation of Marching Cubes algorithm for infinite procedural terrain. |
 | **[Aerial Dogfight P2P](LINK_AL_REPO)** | 🌐 **Mirror Networking** integration with Steamworks for prediction-based multiplayer physics. |
 | **[Dialogue System](LINK_AL_REPO)** | 🎨 **Custom Editor Tools** & Graph-based logic for narrative design speed-up. |
